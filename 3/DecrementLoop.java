@@ -1,4 +1,4 @@
-class Code3_2 {
+class DecrementLoop {
   public static void main(String[] args) {
     int i = 10;
     while (--i > 0)
