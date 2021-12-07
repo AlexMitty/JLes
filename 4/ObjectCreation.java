@@ -1,4 +1,4 @@
-class Code4_1 {
+class ObjectCreation {
       private static int nextId = 1;
           private int id;
           public void setId() {
@@ -7,8 +7,8 @@ class Code4_1 {
             }
   public static void main(String[] args) {
       System.out.println(nextId);
-       Code4_1 c = new Code4_1();
-       c.setId();
+       ObjectCreation o = new ObjectCreation();
+       o.setId();
        System.out.println(nextId);
   }
 }
