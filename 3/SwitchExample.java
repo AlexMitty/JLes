@@ -1,4 +1,4 @@
-class Code3_1 {
+class SwitchExample {
   public static void main(String[] args) {
     int numLetters = switch(day) {
     case MONDAY, FRIDAY, SUNDAY -> 6; 
