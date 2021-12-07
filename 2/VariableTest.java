@@ -1,4 +1,4 @@
-class Code2_1 {
+class VariableTest {
   static int b;
   public static void main(String[] args) {
       int a;
