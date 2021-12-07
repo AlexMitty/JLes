@@ -1,4 +1,4 @@
-class Code2_2 {
+class FunnyComputation {
   public static void main(String[] args) {
     double a = Long.MAX_VALUE;
     long b = Long.MAX_VALUE;
