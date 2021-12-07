@@ -4,7 +4,7 @@
  * @version 2.1
  * @author Кодер Типичный
  */
-class Code1_3 {
+class HelloDoc {
   public static void main(String[] args) {
     /**
      * Метод приветствия
