@@ -1,4 +1,4 @@
-class Code3_3 {
+class SearchWithLables {
     static boolean found;
 
     public static void main(String[] args) {
