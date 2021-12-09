@@ -1,3 +1,4 @@
+import java.io.*;
 public class TryFinallyClose {
     public static void main(String[] args) throws IOException {
         InputStream in = new FileInputStream("input-file.txt");
